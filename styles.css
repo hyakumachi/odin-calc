@@ -70,7 +70,7 @@ button.equals {
   margin-top: 5px;
 }
 
-.display {
+#display {
   background: white;
   color: black;
   font-size: 32px;
