@@ -80,4 +80,5 @@ button.equals {
   border: 2px solid black;
   margin: 20px;
   height: 80px;
+  overflow: hidden;
 }
